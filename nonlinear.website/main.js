@@ -93,43 +93,37 @@ const texts = [
 
   "The future exists now, I replied. But I am your friend. Can I take another look at the letter? Albert rose from his seat. He stood up tall as he opened the top drawer of the high writing cabinet. For a moment his back was again turned to me. I had the revolver ready. I fired with the utmost care: Albert fell without a murmur, at once. I swear that his death was instantaneous, as if he had been struck by lightning.",
 
-  "What remains is unreal and unimportant. Madden broke in and arrested me. I have been condemned to hang. Abominably, I have yet triumphed! The secret name of the city to be attacked got through to Berlin. Yesterday it was bombed. I read the news in the same English newspapers which were trying to solve the riddle of the murder of the learned Sinologist Stephen Albert by the unknown Yu Tsun. The Chief, however, had already solved this mystery. He knew that my problem was to shout, with my feeble voice, above the tumult of war, the name of the city called Albert, and that I had no other course open to me than to kill someone of that name. He does not know, for no one can, of my infinite penitence and sickness of the heart."
+  "What remains is unreal and unimportant. Madden broke in and arrested me. I have been condemned to hang. Abominably, I have yet triumphed! The secret name of the city to be attacked got through to Berlin. Yesterday it was bombed. I read the news in the same English newspapers which were trying to solve the riddle of the murder of the learned Sinologist Stephen Albert by the unknown Yu Tsun. The Chief, however, had already solved this mystery. He knew that my problem was to shout, with my feeble voice, above the tumult of war, the name of the city called Albert, and that I had no other course open to me than to kill someone of that name. He does not know, for no one can, of my infinite penitence and sickness of the heart.",
 ];
 
+let pageNext = document.getElementById("next");
 
+next.addEventListener("click", function () {
+  document.getElementById("nextPageNumber").innerHTML =
+    Math.floor(Math.random() * 999) + 1;
 
-let pageNext = document.getElementById('next');
+  document.getElementById("backPageNumber").innerHTML =
+    Math.floor(Math.random() * 999) + 1;
 
-next.addEventListener('click', function() {
-document.getElementById("nextPageNumber").innerHTML =
-Math.floor(Math.random() * 999) + 1;
+  document.getElementById("progress").innerHTML =
+    Math.floor(Math.random() * 100) + 1 + "% Complete";
 
-document.getElementById("backPageNumber").innerHTML =
-Math.floor(Math.random() * 999) + 1;
-
-document.getElementById("progress").innerHTML =
-Math.floor(Math.random() * 100) + 1 + "% Complete";
-
-document.getElementById("text").innerHTML =
-texts[Math.floor(Math.random() * texts.length)];
-
+  document.getElementById("text").innerHTML =
+    texts[Math.floor(Math.random() * texts.length)];
 });
 
-let pageBack = document.getElementById('back');
+let pageBack = document.getElementById("back");
 
-back.addEventListener('click', function() {
-document.getElementById("backPageNumber").innerHTML =
-Math.floor(Math.random() * 999) + 1;
+back.addEventListener("click", function () {
+  document.getElementById("backPageNumber").innerHTML =
+    Math.floor(Math.random() * 999) + 1;
 
-document.getElementById("nextPageNumber").innerHTML =
-Math.floor(Math.random() * 999) + 1;
+  document.getElementById("nextPageNumber").innerHTML =
+    Math.floor(Math.random() * 999) + 1;
 
-document.getElementById("progress").innerHTML =
-Math.floor(Math.random() * 100) + 1 + "% Complete";
+  document.getElementById("progress").innerHTML =
+    Math.floor(Math.random() * 100) + 1 + "% Complete";
 
-document.getElementById("text").innerHTML =
-texts[Math.floor(Math.random() * texts.length)];
+  document.getElementById("text").innerHTML =
+    texts[Math.floor(Math.random() * texts.length)];
 });
-
-
-
