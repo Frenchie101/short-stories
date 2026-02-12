@@ -21,12 +21,7 @@ h1 {
   font-family: "Jacquard 12", Times, serif;
   font-size: 128px;
   padding: 20px;
-  padding-bottom: 0px;
-  margin-bottom: 0px;
-}
-
-h2 {
-margin: 20px;
+  margin-bottom: 10px;
 }
 
 h4 {
@@ -71,7 +66,4 @@ footer {
 .next_nav {
   grid-column: 3;
   grid-row: 3;
-  display: flex;
-  align-items: center;
 }
-
