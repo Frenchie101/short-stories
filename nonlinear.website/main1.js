@@ -94,6 +94,218 @@ const texts = [
   "The future exists now, I replied. But I am your friend. Can I take another look at the letter? Albert rose from his seat. He stood up tall as he opened the top drawer of the high writing cabinet. For a moment his back was again turned to me. I had the revolver ready. I fired with the utmost care: Albert fell without a murmur, at once. I swear that his death was instantaneous, as if he had been struck by lightning.",
 
   "What remains is unreal and unimportant. Madden broke in and arrested me. I have been condemned to hang. Abominably, I have yet triumphed! The secret name of the city to be attacked got through to Berlin. Yesterday it was bombed. I read the news in the same English newspapers which were trying to solve the riddle of the murder of the learned Sinologist Stephen Albert by the unknown Yu Tsun. The Chief, however, had already solved this mystery. He knew that my problem was to shout, with my feeble voice, above the tumult of war, the name of the city called Albert, and that I had no other course open to me than to kill someone of that name. He does not know, for no one can, of my infinite penitence and sickness of the heart.",
+
+  "No one saw him disembark in the unanimous night, no one saw the bamboo canoe sink into the sacred mud, but in a few days there was no one who did not know that the taciturn man came from the South and that his home had been one of those numberless villages upstream in the deeply cleft side of the mountain, where the Zend language has not been contaminated by Greek and where leprosy is infrequent. What is certain is that the grey man kissed the mud, climbed up the bank with pushing aside (probably, without feeling) the blades which were lacerating his flesh, and crawled, nauseated and bloodstained, up to the circular enclosure crowned with a stone tiger or horse, which sometimes was the color of flame and now was that of ashes. This circle was a temple which had been devoured by ancient fires, profaned by the miasmal jungle, and whose god no longer received the homage of men. The stranger stretched himself out beneath the pedestal. He was awakened by the sun high overhead. He was not astonished to find that his wounds had healed; he closed his pallid eyes and slept, not through weakness of flesh but through determination of will. He knew that this temple was the place required for his invincible intent; he knew that the incessant trees had not succeeded in strangling the ruins of another propitious temple downstream which had once belonged to gods now burned and dead; he knew that his immediate obligation was to dream. Toward midnight he was awakened by the inconsolable shriek of a bird. Tracks of bare feet, some figs and a jug warned him that the men of the region had been spying respectfully on his sleep, soliciting his protection or afraid of his magic. He felt a chill of fear, and sought out a sepulchral niche in the dilapidated wall where he concealed himself among unfamiliar leaves.",
+  
+  "The purpose which guided him was not impossible, though supernatural. He wanted to dream a man; he wanted to dream him in minute entirety and impose him on reality. This magic project had exhausted the entire expanse of his mind; if someone had asked him his name or to relate some event of his former life, he would not have been able to give an answer. This uninhabited, ruined temple suited him, for it is contained a minimum of visible world; the proximity of the workmen also suited him, for they took it upon themselves to provide for his frugal needs. The rice and fruit they brought him were nourishment enough for his body, which was consecrated to the sole task of sleeping and dreaming.",
+
+  "At first, his dreams were chaotic; then in a short while they became dialectic in nature. The stranger dreamed that he was in the center of a circular amphitheater which was more or less the burnt temple; clouds of taciturn students filled the tiers of seats; the faces of the farthest ones hung at a distance of many centuries and as high as the stars, but their features were completely precise. The man lectured his pupils on anatomy, cosmography, and magic: the faces listened anxiously and tried to answer understandingly, as if they guessed the importance of that examination which would redeem one of them from his condition of empty illusion and interpolate him into the real world. Asleep or awake, the man thought over the answers of his phantoms, did not allow himself to be deceived by imposters, and in certain perplexities he sensed a growing intelligence. He was seeking a soul worthy of participating in the universe.",
+
+  "After nine or ten nights he understood with a certain bitterness that he could expect nothing from those pupils who accepted his doctrine passively, but that he could expect something from those who occasionally dared to oppose him. The former group, although worthy of love and affection, could not ascend to the level of individuals; the latter pre-existed to a slightly greater degree. One afternoon (now afternoons were also given over to sleep, now he was only awake for a couple hours at daybreak) he dismissed the vast illusory student body for good and kept only one pupil. He was a taciturn, sallow boy, at times intractable, and whose sharp features resembled of those of his dreamer. The brusque elimination of his fellow students did not disconcert him for long; after a few private lessons, his progress was enough to astound the teacher. Nevertheless, a catastrophe took place. One day, the man emerged from his sleep as if from a viscous desert, looked at the useless afternoon light which he immediately confused with the dawn, and understood that he had not dreamed. All that night and all day long, the intolerable lucidity of insomnia fell upon him. He tried exploring the forest, to lose his strength; among the hemlock he barely succeeded in experiencing several short snatchs of sleep, veined with fleeting, rudimentary visions that were useless. He tried to assemble the student body but scarcely had he articulated a few brief words of exhortation when it became deformed and was then erased. In his almost perpetual vigil, tears of anger burned his old eyes.",
+
+  "He understood that modeling the incoherent and vertiginous matter of which dreams are composed was the most difficult task that a man could undertake, even though he should penetrate all the enigmas of a superior and inferior order; much more difficult than weaving a rope out of sand or coining the faceless wind. He swore he would forget the enormous hallucination which had thrown him off at first, and he sought another method of work. Before putting it into execution, he spent a month recovering his strength, which had been squandered by his delirium. He abandoned all premeditation of dreaming and almost immediately succeeded in sleeping a reasonable part of each day. The few times that he had dreams during this period, he paid no attention to them. Before resuming his task, he waited until the moon's disk was perfect. Then, in the afternoon, he purified himself in the waters of the river, worshiped the planetary gods, pronounced the prescribed syllables of a mighty name, and went to sleep. He dreamed almost immediately, with his heart throbbing.",
+
+  "He dreamed that it was warm, secret, about the size of a clenched fist, and of a garnet color within the penumbra of a human body as yet without face or sex; during fourteen lucid nights he dreampt of it with meticulous love. Every night he perceived it more clearly. He did not touch it; he only permitted himself to witness it, to observe it, and occasionally to rectify it with a glance. He perceived it and lived it from all angles and distances. On the fourteenth night he lightly touched the pulmonary artery with his index finger, then the whole heart, outside and inside. He was satisfied with the examination. He deliberately did not dream for a night; he took up the heart again, invoked the name of a planet, and undertook the vision of another of the principle organs. Within a year he had come to the skeleton and the eyelids. The innumerable hair was perhaps the most difficult task. He dreamed an entire man--a young man, but who did not sit up or talk, who was unable to open his eyes. Night after night, the man dreamt him asleep.",
+
+  "In the Gnostic cosmosgonies, demiurges fashion a red Adam who cannot stand; as a clumsy, crude and elemental as this Adam of dust was the Adam of dreams forged by the wizard's nights. One afternoon, the man almost destroyed his entire work, but then changed his mind. (It would have been better had he destroyed it.) When he had exhausted all supplications to the deities of earth, he threw himself at the feet of the effigy which was perhaps a tiger or perhaps a colt and implored its unknown help. That evening, at twilight, he dreamt of the statue. He dreamt it was alive, tremulous: it was not an atrocious bastard of a tiger and a colt, but at the same time these two firey creatures and also a bull, a rose, and a storm. This multiple god revealed to him that his earthly name was Fire, and that in this circular temple (and in others like it) people had once made sacrifices to him and worshiped him, and that he would magically animate the dreamed phantom, in such a way that all creatures, except Fire itself and the dreamer, would believe to be a man of flesh and blood. He commanded that once this man had been instructed in all the rites, he should be sent to the other ruined temple whose pyramids were still standing downstream, so that some voice would glorify him in that deserted ediface. In the dream of the man that dreamed, the dreamed one awoke.",
+
+  "The wizard carried out the orders he had been given. He devoted a certain length of time (which finally proved to be two years) to instructing him in the mysteries of the universe and the cult of fire. Secretly, he was pained at the idea of being seperated from him. On the pretext of pedagogical necessity, each day he increased the number of hours dedicated to dreaming. He also remade the right shoulder, which was somewhat defective. At times, he was disturbed by the impression that all this had already happened . . . In general, his days were happy; when he closed his eyes, he thought: Now I will be with my son. Or, more rarely: The son I have engendered is waiting for me and will not exist if I do not go to him.",
+
+  "Gradually, he began accustoming him to reality. Once he ordered him to place a flag on a faraway peak. The next day the flag was fluttering on the peak. He tried other analogous experiments, each time more audacious. With a certain bitterness, he understood that his son was ready to be born--and perhaps impatient. That night he kissed him for the first time and sent him off to the other temple whose remains were turning white downstream, across many miles of inextricable jungle and marshes. Before doing this (and so that his son should never know that he was a phantom, so that he should think himself a man like any other) he destroyed in him all memory of his years of apprenticeship.",
+
+  "His victory and peace became blurred with boredom. In the twilight times of dusk and dawn, he would prostrate himself before the stone figure, perhaps imagining his unreal son carrying out identical rites in other circular ruins downstream; at night he no longer dreamed, or dreamed as any man does. His perceptions of the sounds and forms of the universe became somewhat pallid: his absent son was being nourished by these diminution of his soul. The purpose of his life had been fulfilled; the man remained in a kind of ecstasy. After a certain time, which some chronicles prefer to compute in years and others in decades, two oarsmen awoke him at midnight; he could not see their faces, but they spoke to him of a charmed man in a temple of the North, capable of walking on fire without burning himself. The wizard suddenly remembered the words of the god. He remembered that of all the creatures that people the earth, Fire was the only one who knew his son to be a phantom. This memory, which at first calmed him, ended by tormenting him. He feared lest his son should meditate on this abnormal privilege and by some means find out he was a mere simulacrum. Not to be a man, to be a projection of another man's dreams--what an incomparable humiliation, what madness! Any father is interested in the sons he has procreated (or permitted) out of the mere confusion of happiness; it was natural that the wizard should fear for the future of that son whom he had thought out entrail by entrail, feature by feature, in a thousand and one secret nights.",
+
+  "His misgivings ended abruptly, but not without certain forewarnings. First (after a long drought) a remote cloud, as light as a bird, appeared on a hill; then, toward the South, the sky took on the rose color of leopard's gums; then came clouds of smoke which rusted the metal of the nights; afterwards came the panic-stricken flight of wild animals. For what had happened many centuries before was repeating itself. The ruins of the sanctuary of the god of Fire was destroyed by fire. In a dawn without birds, the wizard saw the concentric fire licking the walls. For a moment, he thought of taking refuge in the water, but then he understood that death was coming to crown his old age and absolve him from his labors. He walked toward the sheets of flame. They did not bite his flesh, they caressed him and flooded him without heat or combustion. With relief, with humiliation, with terror, he understood that he also was an illusion, that someone else was dreaming him.",
+  
+  "I live alone in a fourth-floor apartment on Belgrano Street, in Buenos Aires.",
+  
+  "Late one evening, a few months back, I heard a knock at my door.",
+  
+  "I opened it and a stranger stood there.",
+  
+  "He was a tall man, with nondescript features — or perhaps it was my myopia that made them seem that way.",
+  
+  "Dressed in gray and carrying a gray suitcase in his hand, he had an unassuming look about him.",
+  
+  "I saw at once that he was a foreigner.",
+  
+  "At first, he struck me as old; only later did I realize that I had been misled by his thin blond hair, which was, in a Scandinavian sort of way, almost white.",
+  
+  "During the course of our conversation, which was not to last an hour, I found out that he came from the Orkneys.",
+  
+  "I invited him in, pointing to a chair.",
+  
+  "He paused awhile before speaking.",
+  
+  "A kind of gloom emanated from him — as it does now from me.",
+  
+  "\"I sell Bibles,\" he said.",
+  
+  "Somewhat pedantically, I replied, \"In this house are several English Bibles, including the first — John Wiclif's. I also have Cipriano de Valera's, Luther's — which, from a literary viewpoint, is the worst — and a Latin copy of the Vulgate. As you see, it's not exactly Bibles I stand in need of.\"",
+  
+  "After a few moments of silence, he said, \"I don't only sell Bibles. I can show you a holy book I came across on the outskirts of Bikaner. It may interest you.\"",
+  
+  "He opened the suitcase and laid the book on a table.",
+  
+  "It was an octavo volume, bound in cloth.",
+  
+  "There was no doubt that it had passed through many hands.",
+  
+  "Examining it, I was surprised by its unusual weight.",
+  
+  "On the spine were the words \"Holy Writ\" and, below them, \"Bombay.\"",
+  
+  "\"Nineteenth century, probably,\" I remarked.",
+  
+  "\"I don't know,\" he said. \"I've never found out.\"",
+  
+  "I opened the book at random.",
+  
+  "The script was strange to me.",
+  
+  "The pages, which were worn and typographically poor, were laid out in double columns, as in a Bible.",
+  
+  "The text was closely printed, and it was ordered in versicles.",
+  
+  "In the upper corners of the pages were Arabic numbers.",
+  
+  "I noticed that one left-hand page bore the number (let us say) 40,514 and the facing right-hand page 999.",
+  
+  "I turned the leaf; it was numbered with eight digits.",
+  
+  "It also bore a small illustration, like the kind used in dictionaries — an anchor drawn with pen and ink, as if by a schoolboy's clumsy hand.",
+  
+  "It was at this point that the stranger said, \"Look at the illustration closely. You'll never see it again.\"",
+  
+  "I noted my place and closed the book.",
+  
+  "At once, I reopened it.",
+  
+  "Page by page, in vain, I looked for the illustration of the anchor.",
+  
+  "\"It seems to be a version of Scriptures in some Indian language, is it not?\" I said to hide my dismay.",
+  
+  "\"No,\" he replied.",
+  
+  "Then, as if confiding a secret, he lowered his voice.",
+  
+  "\"I acquired the book in a town out on the plain in exchange for a handful of rupees and a Bible. Its owner did not know how to read. I suspect that he saw the Book of Books as a talisman. He was of the lowest caste; nobody but other untouchables could tread his shadow without contamination. He told me his book was called the Book of Sand, because neither the book nor the sand has any beginning or end.\"",
+  
+  "The stranger asked me to find the first page.",
+  
+  "I laid my left hand on the cover and, trying to put my thumb on the flyleaf, I opened the book.",
+  
+  "It was useless.",
+  
+  "Every time I tried, a number of pages came between the cover and my thumb.",
+  
+  "It was as if they kept growing from the book.",
+  
+  "\"Now find the last page.\"" , 
+  
+  "Again I failed.",
+  
+  "In a voice that was not mine, I barely managed to stammer, \"This can't be.\"",
+  
+  "Still speaking in a low voice, the stranger said, \"It can't be, but it is. The number of pages in this book is no more or less than infinite. None is the first page, none the last. I don't know why they're numbered in this arbitrary way. Perhaps to suggest that the terms of an infinite series admit any number.\"",
+  
+  "Then, as if he were thinking aloud, he said, \"If space is infinite, we may be at any point in space. If time is infinite, we may be at any point in time.\"",
+  
+  "His speculations irritated me.",
+  
+  "\"You are religious, no doubt?\" I asked him.",
+  
+  "\"Yes, I'm a Presbyterian. My conscience is clear. I am reasonably sure of not having cheated the native when I gave him the Word of God in exchange for his devilish book.\"",
+  
+  "I assured him that he had nothing to reproach himself for, and I asked if he were just passing through this part of the world.",
+  
+  "He replied that he planned to return to his country in a few days.",
+  
+  "It was then that I learned that he was a Scot from the Orkney Islands.",
+  
+  "I told him I had a great personal affection for Scotland, through my love of Stevenson and Hume.",
+  
+  "\"You mean Stevenson and Robbie Burns,\" he corrected.",
+  
+  "While we spoke, I kept exploring the infinite book.",
+  
+  "With feigned indifference, I asked, \"Do you intend to offer this curiosity to the British Museum?\"",
+  
+  "\"No. I'm offering it to you,\" he said, and he stipulated a rather high sum for the book.",
+  
+  "I answered, in all truthfulness, that such a sum was out of my reach, and I began thinking.",
+  
+  "After a minute or two, I came up with a scheme.",
+  
+  "\"I propose a swap,\" I said. \"You got this book for a handful of rupees and a copy of the Bible. I'll offer you the amount of my pension check, which I've just collected, and my black-letter Wiclif Bible. I inherited it from my ancestors.\"",
+  
+  "\"A black-letter Wiclif!\" he murmured.",
+  
+  "I went to my bedroom and brought him the money and the book.",
+  
+  "He turned the leaves and studied the title page with all the fervor of a true bibliophile." , 
+  
+  "\"It's a deal,\" he said.",
+  
+  "It amazed me that he did not haggle.",
+  
+  "Only later was I to realize that he had entered my house with his mind made up to sell the book.",
+  
+  "Without counting the money, he put it away.",
+  
+  "We talked about India, about Orkney, and about the Norwegian jarls who once ruled it.",
+  
+  "It was night when the man left.",
+  
+  "I have not seen him again, nor do I know his name.",
+  
+  "I thought of keeping the Book of Sand in the space left on the shelf by the Wiclif, but in the end I decided to hide it behind the volumes of a broken set of The Thousand and One Nights.",
+  
+  "I went to bed and did not sleep.",
+  
+  "At three or four in the morning, I turned on the light.",
+  
+  "I got down the impossible book and leafed through its pages.",
+  
+  "On one of them I saw engraved a mask.",
+  
+  "The upper corner of the page carried a number, which I no longer recall, elevated to the ninth power.",
+  
+  "I showed no one my treasure.",
+  
+  "To the luck of owning it was added the fear of having it stolen, and then the misgiving that it might not truly be infinite.",
+  
+  "These twin preoccupations intensified my old misanthropy.",
+  
+  "I had only a few friends left; I now stopped seeing even them.",
+  
+  "A prisoner of the book, I almost never went out anymore.",
+  
+  "After studying its frayed spine and covers with a magnifying glass, I rejected the possibility of a contrivance of any sort.",
+  
+  "The small illustrations, I verified, came two thousand pages apart.",
+  
+  "I set about listing them alphabetically in a notebook, which I was not long in filling up.",
+  
+  "Never once was an illustration repeated.",
+  
+  "At night, in the meager intervals my insomnia granted, I dreamed of the book.",
+  
+  "Summer came and went, and I realized that the book was monstrous.",
+  
+  "What good did it do me to think that I, who looked upon the volume with my eyes, who held it in my hands, was any less monstrous?",
+  
+  "I felt that the book was a nightmarish object, an obscene thing that affronted and tainted reality itself.",
+  
+  "I thought of fire, but I feared that the burning of an infinite book might likewise prove infinite and suffocate the planet with smoke.",
+  
+  "Somewhere I recalled reading that the best place to hide a leaf is in a forest.",
+  
+  "Before retirement, I worked on Mexico Street, at the Argentine National Library, which contains nine hundred thousand volumes.",
+  
+  "I knew that to the right of the entrance a curved staircase leads down into the basement, where books and maps and periodicals are kept.",
+
+"One day I went there and, slipping past a member of the staff and trying not to notice at what height or distance from the door, I lost the Book of Sand on one of the basement's musty shelves."
 ];
 
 let pageNext = document.getElementById("next");
